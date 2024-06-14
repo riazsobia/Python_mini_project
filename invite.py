@@ -1,0 +1,3 @@
+class Invite:
+
+    pass
